@@ -22,3 +22,4 @@ Thank you for your interest in contributing to our project! We welcome contribut
 3. Create a new **branch** for your changes:
    ```bash
    git checkout -b my-feature-branch
+some updates for pull request
